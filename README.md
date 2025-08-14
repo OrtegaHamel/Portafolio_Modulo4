@@ -1,4 +1,5 @@
 # Fundamentos de Programación en Python
+Por Álvaro Ortega Hamel
 
 Este repositorio contiene una colección de ejercicios prácticos diseñados para demostrar dominio de **conceptos fundamentales**, **competencias técnicas** y **habilidades de resolución de problemas** en el lenguaje **Python**.
 
@@ -8,26 +9,26 @@ Cada script se enfoca en un objetivo de aprendizaje específico, abordando desde
 
 ## Ejercicios
 
-### 1. 1_conversor_unidades.py
+### 1_conversor_unidades.py
 **Objetivo:** Practicar el uso de **variables**, **operadores** y **estructuras básicas**.  
 **Descripción:** Programa interactivo que convierte entre **kilómetros** y **millas** mediante un menú sencillo.
 
 ---
 
-### 2. 2_formulario_consola.py
+### 2_formulario_consola.py
 **Objetivo:** Diferenciar y utilizar distintos **tipos de datos** (`int`, `float`, `bool`, `str`).  
 **Descripción:** Solicita al usuario su nombre, edad, estatura y si es estudiante.  
 Muestra toda la información ingresada de forma ordenada.
 
 ---
 
-### 3. 3_positivo_negativo_cero.py
+### 3_positivo_negativo_cero.py
 **Objetivo:** Uso de sentencias condicionales **if / elif / else**.  
 **Descripción:** Solicita un número y determina si es **positivo**, **negativo** o **cero**.
 
 ---
 
-### 4. 4_tabla_factorial.py
+### 4_tabla_factorial.py
 **Objetivo:** Practicar bucles **for** y **while**.  
 **Descripción:**
 - **Opción 1:** Genera la tabla de multiplicar (1 al 10) de un número dado.  
@@ -35,7 +36,7 @@ Muestra toda la información ingresada de forma ordenada.
 
 ---
 
-### 5. 5_agenda_contactos.py
+### 5_agenda_contactos.py
 **Objetivo:** Manejo de **estructuras de datos** como **diccionarios** y **listas**.  
 **Descripción:** Sistema de agenda en consola que permite:  
 - Ver todos los contactos  
@@ -44,7 +45,7 @@ Muestra toda la información ingresada de forma ordenada.
 
 ---
 
-### 6. 6_areas_geometricas.py
+### 6_areas_geometricas.py
 **Objetivo:** Uso de **funciones** para la reutilización de código.  
 **Descripción:** Menú que calcula el área de:  
 - Rectángulo  
@@ -59,4 +60,4 @@ Cada figura utiliza una función independiente para mejorar la modularidad.
 - Consola / Terminal
 
 ## Nota
-Este repositorio es ideal para reforzar conocimientos y practicar de manera progresiva los fundamentos de programación estructurada en Python.
+Este repositorio corresponde a la Evaluación de portafolio del Módulo 4 del Bootcamp Fullstack Python.
